@@ -1,0 +1,110 @@
+.div-1{
+    width: 500px;
+    height: 800px;
+    background-color: #360160;
+
+}
+.div-2{
+    padding-left:60px;
+    padding-right: 60px;
+}
+.input{
+    width: 380px;
+    height: 50px;
+    border-radius: 5px;
+}
+.text{
+    font-weight: 700;
+    font-size: 52px;
+    color: #FFDC40;
+    width: 380px;
+    height: 94px;
+    padding-top: 34px;
+    margin-bottom: 42px;
+}
+.sum{
+    margin-top: 42px;
+    color:white;
+    font-weight: 400;
+    font-size: 20px;
+    margin-bottom:21px;
+}
+.kachestvo{
+    margin-top: 21px;
+    font-weight: 400;
+    font-size: 20px;
+    color:white;
+}
+.input-1{
+    margin-bottom: 21px;
+    width: 390px;
+    height: 50px;
+    border-radius: 5px;
+}
+.kol-vo{
+    margin-top: 21px;
+    font-weight: 400;
+    font-size: 20px;
+    color:white;
+    margin-bottom: 30px;
+}
+.button{
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+.button-1{
+    margin-right: 20px;
+    background: #FFDC40;
+    border-radius: 15px;
+    width: 180px;
+    height: 60px;
+    font-weight: 700;
+    font-size: 19px;
+
+}
+.button-2{
+    margin-left: 20px;
+    background: #7C7A7A;;
+    border-radius: 15px;
+    width: 180px;
+    height: 60px;
+    font-weight: 700;
+    font-size: 19px;
+    color:white;
+
+}
+.end{
+    margin-top:60px;
+}
+.input-3{
+    width: 380px;
+    height: 50px;
+    border-radius: 5px;
+}
+.qwe{
+    margin-left: 10px;
+}
+.wer{
+    margin-left: 10px;
+
+
+}
+.cha{
+    width: 147px;
+    height: 29px;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+.total{
+    width: 147px;
+    height: 29px;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 25px;
+    margin-top:30px;
+
+}
